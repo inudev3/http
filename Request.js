@@ -16,7 +16,7 @@ export class MyRequest{
         this.#port=port;
     }
     message(){
-        const startLine = `${this.#options.method} / HTTP/1.1`;
+        const startLine = `${this.#options.method} /home/index.jsp HTTP/1.1`;
         const arr = [startLine]
         Object.entries(this.#options).map(([k,v])=>{
             arr.push(`${k}: ${v}`)

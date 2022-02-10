@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e72e5f2-e687-4305-af9e-4693b9f12ab5" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/../pcroom.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pcroom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Request.js" beforeDir="false" afterPath="$PROJECT_DIR$/Request.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644458580830</updated>
       <workItem from="1644458581872" duration="18249000" />
+      <workItem from="1644479117018" duration="285000" />
     </task>
     <servers />
   </component>
